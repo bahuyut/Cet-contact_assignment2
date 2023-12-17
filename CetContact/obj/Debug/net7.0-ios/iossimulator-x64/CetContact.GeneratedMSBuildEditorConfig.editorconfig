@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CetContact
+build_property.ProjectDir = /Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/Views/AddContactPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.Views.AddContactPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AddContactPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AddContactPage.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/Views/ContactsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.Views.ContactsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ContactsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ContactsPage.xaml
+
+[/Users/bayramalihuyut/Desktop/7.dönem/cet301/assignment2/CetContact-master/CetContact/Views/EditContactPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CetContact.Views.EditContactPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/EditContactPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/EditContactPage.xaml
